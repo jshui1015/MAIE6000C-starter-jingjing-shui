@@ -6,7 +6,7 @@
 - Student ID: 21340647
 - Repository: https://github.com/jshui1015/MAIE6000C-starter-jingjing-shui
 - Checkpoint tag: `w03-readiness`
-- Commit SHA: b4915fd1637cf64a3f25697eab0a30e4caca9819
+- Commit SHA: c6701d94a6906430c5f8a9574cb88c665f924d26
 
 ## 1. What I changed
 
