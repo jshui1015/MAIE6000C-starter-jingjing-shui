@@ -93,4 +93,12 @@ AI does not grade academic quality, detect plagiarism, execute code, or block su
 
 ## 12. AI Use Statement
 
-OpenAI Codex was used to interpret the Week 4 lab instructions and draft the wording and structure of the project overview, architecture proposal. 
+**Tool used:** OpenAI Codex.
+
+**Purpose and affected work:** Codex helped interpret the Week 4 lab instructions and draft the wording and structure of `README.md`, `docs/architecture.md`, and this Week 4 submission document. 
+
+**Team verification:** We compared the proposal with our selected AI Submission Pre-flight Checker brief and the Week 4 rubric. We reviewed the relationships among `AssignmentSpec`, `Submission`, `SubmissionFile`, `CheckJob`, `CheckResult`, and `Finding`; checked that submission and job statuses are used consistently; and traced the proposed API → database → worker → report flow. We also checked that the Week 7 scope is limited to one predefined Python assignment package and that the readiness score uses completed deterministic checks only.
+
+**Changes made after review:** No material changes were needed
+
+**Suggestions rejected or deferred:** We deferred support for multiple programming languages because it would put the Week 7 vertical slice at risk.
